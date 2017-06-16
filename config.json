@@ -1,0 +1,7 @@
+{
+  "botName": "BOTNAME",
+  "botId": "[botID<Numbers>]",
+  "defaultChatChannel": "",
+  "defaultVoiceChannel": "",
+  "commandPrefix": "\/BOT "
+}
